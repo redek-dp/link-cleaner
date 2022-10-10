@@ -1,5 +1,7 @@
 # Link Cleaner
 
+https://redek-dp.github.io/link-cleaner/
+
 Link Cleaner is a web app that removes unnecessary junk from web links in one click. The result can then be copied to the device clipboard, shared to another app or service, or displayed as a QR code for easy scanning.
 
 Link Cleaner is primarily developed for mobile devices, as removing parts of links with a touchscreen keyboard is usually cumbersome, but it works perfectly well on desktob browsers as well.
